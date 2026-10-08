@@ -6,7 +6,7 @@ What it is?
 The Systematic Automate Barrier (SAB) is a smart, high-tech screen or net built to protect communities from bad weather and climate change.
 
 
-What it does (In Simple Words)
+What it does?
 
 It catches extreme weather and turns it into useful resources by doing three main things:
 • Blocks bad weather: It acts like a shield to protect areas vulnerable to disasters.
